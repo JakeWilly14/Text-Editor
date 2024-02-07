@@ -26,6 +26,14 @@
   ## Usage
   This is just another text editor that allows users to read and write text that will be saved to local storage and indexedDB.
   
+  ![image](https://github.com/JakeWilly14/Text-Editor/assets/144076139/67388105-6318-4392-8652-c3675acd0c0e)
+
+  ![image](https://github.com/JakeWilly14/Text-Editor/assets/144076139/65171b6e-91d7-4634-afb6-1207fb54a5a5)
+
+  ![image](https://github.com/JakeWilly14/Text-Editor/assets/144076139/7748f2ed-8be7-4808-ad14-03584147a811)
+
+  
+  
   ## Contributors
   This is a student bootcamp repository. No further contributions.
   
